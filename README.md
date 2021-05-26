@@ -11,7 +11,7 @@
 
 ### 📞 Contact Me
 ![](https://img.shields.io/badge/hay0914@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)
-![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white%link=https://www.linkedin.com/in/hayoung-lee-868a8a16a/)
+![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayoung-lee-868a8a16a/)
 
 --------------------
 
