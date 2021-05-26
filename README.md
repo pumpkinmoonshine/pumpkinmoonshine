@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f8e2cf&height=200&section=header&text=Hayoung%20Lee&fontSize=40&fontAlign=20&fontAlignY=35&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hayoung%20Lee&fontSize=40&fontAlign=20&fontAlignY=35)
 
 ### 🛠 My Tech Stack
 
@@ -10,10 +10,10 @@
 
 
 ### 📞 Contact Me
-![](https://img.shields.io/badge/hay0914@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)
-![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayoung-lee-868a8a16a/)
+[![Gmail](https://img.shields.io/badge/hay0914@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=hay0914@gmail.com)](mailto:hay0914@gmail.com)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayoung-lee-868a8a16a)](https://www.linkedin.com/in/hayoung-lee-868a8a16a)
 
---------------------
 
+### 📍 My Status
 ![Hayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumpkinmoonshine&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumpkinmoonshine)
