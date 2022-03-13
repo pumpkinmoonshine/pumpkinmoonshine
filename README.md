@@ -12,8 +12,6 @@
 • Restful API 및 기타 HTTP API로 클라이언트를 개발할 수 있습니다.  
 • 기획, 설계, 커뮤니케이션, 디자인, 개발, 운영에 적극 참여할 수 있습니다.  
 • UI/UX 디자이너로 근무한 경험이 있어 기획자, 디자이너와의 협업에 능합니다.  
-• 영상디자인과를 졸업하여 인터랙션 애니메이팅에 능숙하고, 다양한 프로토타이핑 툴을 사용할 수 있습니다.  
-• 사용 가능한 그래픽/프로토타이핑 툴: Photoshop, Illustrator, After Effects, Sketch, Figma, Protopie, FramerX  
 
 ### 🛠 My Tech Stack
 
