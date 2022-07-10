@@ -11,7 +11,12 @@
 • HTML(5), CSS, javascript, typescript, React, React Native 로 개발이 가능합니다.  
 • Restful API 및 기타 HTTP API로 클라이언트를 개발할 수 있습니다.  
 • 기획, 설계, 커뮤니케이션, 디자인, 개발, 운영에 적극 참여할 수 있습니다.  
-• UI/UX 디자이너로 근무한 경험이 있어 기획자, 디자이너와의 협업에 능합니다.  
+• UI/UX 디자이너로 근무한 경험이 있어 기획자, 디자이너와의 협업에 능합니다.
+
+### 💼 My Resume
+👇 제 이력서가 궁금하시다면? 
+
+[![Resume](https://img.shields.io/badge/resume-3333FF?style=for-the-badge&logo=Velog&logoColor=white&link=https://my.surfit.io/w/162493864)](https://my.surfit.io/w/162493864)
 
 ### 🛠 My Tech Stack
 
