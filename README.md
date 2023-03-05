@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hayoung%20Lee&fontSize=40&fontAlign=20&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&width=auto&height=200&section=header&text=Hayoung%20Lee&fontSize=40&fontAlign=20&fontAlignY=35)
 
 ### 💁‍♀️ My Info
 "한 걸음 한 걸음씩, 우리는 나아갑니다."
@@ -9,15 +9,15 @@
 아름다운 인터페이스와 애니메이션을 구현하고 ui 라이브러리를 구축하는 것을 좋아합니다.
 주도적으로 일하며 꼼꼼하고 신중하게 일합니다.
 
-• HTML(5), CSS, typescript, React, React Native 로 개발이 가능합니다.
-• Restful API, GraphQL API로 클라이언트를 개발할 수 있습니다.
-• 기획, 설계, 커뮤니케이션, 디자인, 개발, 운영에 적극 참여할 수 있습니다.
-• UI/UX 디자이너로 2년 동안 근무한 경험이 있어 기획자, 디자이너와의 협업에 능합니다.
+- HTML(5), CSS, typescript, React, React Native 로 개발이 가능합니다.
+- Restful API, GraphQL API로 클라이언트를 개발할 수 있습니다.
+- 기획, 설계, 커뮤니케이션, 디자인, 개발, 운영에 적극 참여할 수 있습니다.
+- UI/UX 디자이너로 2년 동안 근무한 경험이 있어 기획자, 디자이너와의 협업에 능합니다.
 
 ### 💼 My Resume
 👇 제 이력서가 궁금하시다면? 
 
-[![Resume](https://img.shields.io/badge/resume-3333FF?style=for-the-badge&logo=Velog&logoColor=white&link=https://my.surfit.io/w/162493864)](https://my.surfit.io/w/162493864)
+[![Resume](https://img.shields.io/badge/See_My_Resume-3333FF?style=for-the-badge&logo=Velog&logoColor=white&link=https://my.surfit.io/w/162493864)](https://my.surfit.io/w/162493864)
 
 ### 🛠 My Tech Stack
 
