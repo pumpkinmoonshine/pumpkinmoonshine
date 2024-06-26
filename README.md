@@ -34,6 +34,3 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hayoung-lee-868a8a16a)](https://www.linkedin.com/in/hayoung-lee-868a8a16a)
 
 
-### 📍 My Status
-![Hayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumpkinmoonshine&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumpkinmoonshine)
